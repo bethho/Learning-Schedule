@@ -1,30 +1,26 @@
 
-# Learning Schedual
-###### tags: `schedual`
+# Learning Schedule
+###### tags: `schedule`
 
-## The goal of each month
-* The goal in **Sep**.
-	* 每天花一個小時聽英文
-	* 完成git學習
-	* 完成SQL free course
-* The goal in Oct.
-* 
-Month |Context | Status
---|--|--
-Sep|看完git、sql、聽英文|
+## The goal
+1. 看完Git Document
+2. 聽英文
+3. 練習程式能力
+4. 改善自身缺顯(抓重點、講重點、分輕重緩急)，制訂計劃每天照做
 
-## The schedual of everyday
-### September
+#### git (需在1/7完成)
+1. Collaborating，共6小節，預計2020/1/2完成
+-> 2021/1/6 還剩兩個小章節
+-> 3-4 尚未完成
+3. Migrating to Git - SVN to Git - prepping for the migration，共4小節，預計2020/1/2完成
+4. Migrating to Git，預計2020/1/3完成 (8:00 - 15:00，實際6hr)
+5. Advance Tip - Refs and the Reflog，共21小節，預計2020/1/3完成 (18:00 - 23:00，實際6hr)
+6. Advance Tip，剩10小節，每天4小節，預計2020/1/7完成
+
+## The schedule of everyday
 Date | Time | Goal|Status|feedback
 --|--|--|--|--
-20200916|20:00 - 22:00|git(Syncing/git remot、git fetch)
-20200916|22:30 - 23:30|背英文(利用扇貝)
-20200917|07:30 - 8:00|聽BBC learning English一篇 
-20200917|20:00 - 22:00|SQL(Introduction to joins)
-20200917|22:30 - 23:30|背英文(利用扇貝)
-20200918|07:30 - 08:00|聽BBC learning English一篇 
-20200918|20:00 - 22:00|git(Syncing/git push、git pull)
-20200918|22:30 - 23:30|背英文(利用扇貝)
+
 
 #### Status
 tag | meaning
